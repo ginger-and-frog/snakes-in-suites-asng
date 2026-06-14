@@ -439,7 +439,7 @@ tr:last-child td{border-bottom:none}
   overflow:hidden;
 }
 
-.photo-asset img{width:100%;display:block;object-fit:cover}
+.photo-asset img{width:100%;display:block;object-fit:cover;object-position:center top;}
 
 .photo-asset .pa-empty{
   height:240px;
